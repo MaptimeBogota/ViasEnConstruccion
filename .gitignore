@@ -1,0 +1,4 @@
+output.log*
+report*.txt*
+history/
+*.json
