@@ -1,4 +1,7 @@
 # ViasEnConstruccion
+
+**Nota:** Este proyecto fue remplazado por https://github.com/MaptimeBogota/OSM-elements-change-tracker
+
 Identifica qué vías cambiaron de Construction a un tipo concreto de vía, para mapearlas mejor.
 
 Este mecanismo es un script en Bash que se puede correr en cualquier máquina Linux.
